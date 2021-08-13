@@ -1,0 +1,9 @@
+{
+  "courses": [
+    {
+      "id": 2,
+      "title": "Json-server",
+      "summary": "fake server for simulating API!!"
+    }
+  ]
+}
